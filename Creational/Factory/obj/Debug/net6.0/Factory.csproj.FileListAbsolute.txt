@@ -1,0 +1,15 @@
+C:\Projects\DesignPatterns\Creational\Factory\obj\Debug\net6.0\Factory.csproj.AssemblyReference.cache
+C:\Projects\DesignPatterns\Creational\Factory\obj\Debug\net6.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DesignPatterns\Creational\Factory\obj\Debug\net6.0\Factory.AssemblyInfoInputs.cache
+C:\Projects\DesignPatterns\Creational\Factory\obj\Debug\net6.0\Factory.AssemblyInfo.cs
+C:\Projects\DesignPatterns\Creational\Factory\obj\Debug\net6.0\Factory.csproj.CoreCompileInputs.cache
+C:\Projects\DesignPatterns\Creational\Factory\bin\Debug\net6.0\Factory.exe
+C:\Projects\DesignPatterns\Creational\Factory\bin\Debug\net6.0\Factory.deps.json
+C:\Projects\DesignPatterns\Creational\Factory\bin\Debug\net6.0\Factory.runtimeconfig.json
+C:\Projects\DesignPatterns\Creational\Factory\bin\Debug\net6.0\Factory.dll
+C:\Projects\DesignPatterns\Creational\Factory\bin\Debug\net6.0\ref\Factory.dll
+C:\Projects\DesignPatterns\Creational\Factory\bin\Debug\net6.0\Factory.pdb
+C:\Projects\DesignPatterns\Creational\Factory\obj\Debug\net6.0\Factory.dll
+C:\Projects\DesignPatterns\Creational\Factory\obj\Debug\net6.0\ref\Factory.dll
+C:\Projects\DesignPatterns\Creational\Factory\obj\Debug\net6.0\Factory.pdb
+C:\Projects\DesignPatterns\Creational\Factory\obj\Debug\net6.0\Factory.genruntimeconfig.cache

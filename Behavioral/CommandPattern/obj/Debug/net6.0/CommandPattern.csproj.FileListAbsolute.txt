@@ -1,0 +1,15 @@
+C:\Projects\DesignPatterns\Behavioral\CommandPattern\bin\Debug\net6.0\CommandPattern.exe
+C:\Projects\DesignPatterns\Behavioral\CommandPattern\bin\Debug\net6.0\CommandPattern.deps.json
+C:\Projects\DesignPatterns\Behavioral\CommandPattern\bin\Debug\net6.0\CommandPattern.runtimeconfig.json
+C:\Projects\DesignPatterns\Behavioral\CommandPattern\bin\Debug\net6.0\CommandPattern.dll
+C:\Projects\DesignPatterns\Behavioral\CommandPattern\bin\Debug\net6.0\ref\CommandPattern.dll
+C:\Projects\DesignPatterns\Behavioral\CommandPattern\bin\Debug\net6.0\CommandPattern.pdb
+C:\Projects\DesignPatterns\Behavioral\CommandPattern\obj\Debug\net6.0\CommandPattern.csproj.AssemblyReference.cache
+C:\Projects\DesignPatterns\Behavioral\CommandPattern\obj\Debug\net6.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DesignPatterns\Behavioral\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfoInputs.cache
+C:\Projects\DesignPatterns\Behavioral\CommandPattern\obj\Debug\net6.0\CommandPattern.AssemblyInfo.cs
+C:\Projects\DesignPatterns\Behavioral\CommandPattern\obj\Debug\net6.0\CommandPattern.csproj.CoreCompileInputs.cache
+C:\Projects\DesignPatterns\Behavioral\CommandPattern\obj\Debug\net6.0\CommandPattern.dll
+C:\Projects\DesignPatterns\Behavioral\CommandPattern\obj\Debug\net6.0\ref\CommandPattern.dll
+C:\Projects\DesignPatterns\Behavioral\CommandPattern\obj\Debug\net6.0\CommandPattern.pdb
+C:\Projects\DesignPatterns\Behavioral\CommandPattern\obj\Debug\net6.0\CommandPattern.genruntimeconfig.cache

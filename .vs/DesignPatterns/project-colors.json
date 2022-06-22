@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a5ea57df-645f-46f5-a0e5-16c8aa99de41": {
+      "ProjectGuid": "a5ea57df-645f-46f5-a0e5-16c8aa99de41",
+      "DisplayName": "CommandPattern",
+      "ColorIndex": 0
+    },
+    "5de8f432-2831-4e15-a02d-4ca609ec0964": {
+      "ProjectGuid": "5de8f432-2831-4e15-a02d-4ca609ec0964",
+      "DisplayName": "Singleton",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
